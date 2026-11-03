@@ -1,5 +1,10 @@
 # 💫 About Me:
-im working on python and sql. im trying to learn c# rn<br>
+### Hi there, I'm Kerem! 👋
+
+I'm a Computer Science student and software developer based in Turkey, passionate about building practical applications and expanding my backend engineering skills. 
+
+- 🌱 I'm currently sharpening my skills in **Python** and **SQL**, while diving into **C#** and .NET development.
+---
 
 
 # 💻 Tech Stack:
